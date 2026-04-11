@@ -1,7 +1,7 @@
 # =========================
 # 基本配置
 # =========================
-TARGET := good
+TARGET := task_01_hello_world
 SRC_DIR := src
 INC_DIR := include
 OUT_DIR := output
