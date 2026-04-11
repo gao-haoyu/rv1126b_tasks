@@ -1,7 +1,7 @@
 # =========================
 # 基本配置
 # =========================
-TARGET := target_output
+TARGET := task_02_hello_world_arm
 SRC_DIR := src
 INC_DIR := include
 OUT_DIR := output
@@ -112,4 +112,3 @@ clean_x86:
 
 clean_arm:
 	rm -rf $(OUT_DIR)/arm
-
