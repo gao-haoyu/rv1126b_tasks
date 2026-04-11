@@ -112,3 +112,4 @@ clean_x86:
 
 clean_arm:
 	rm -rf $(OUT_DIR)/arm
+
